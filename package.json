@@ -1,0 +1,23 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "A cool app that greets the user",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarapetrucci/greeting.git"
+  },
+  "author": "Tara Petrucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarapetrucci/greeting/issues"
+  },
+  "homepage": "https://github.com/tarapetrucci/greeting#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
